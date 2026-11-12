@@ -1,2 +1,2 @@
 # assignment4
-Dummy repository for college assignment - pay no attention to him.
+This is a test project
